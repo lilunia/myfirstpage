@@ -49,7 +49,7 @@ nav {
 /* header*/
 .hero-img {
 	position: relative;
-	background-image: url('../img/hero_small.jpg');
+	background-image: url('img/hero_small.jpg');
 	height: 330px;
 	background-position: center;
 	background-size: cover;
@@ -108,16 +108,16 @@ main {
 	color: orange;
 }
 .first-interest {
-	background-image: url('../img/peach-g9ef3d2a2b_640.jpg');
+	background-image: url('img/peach-g9ef3d2a2b_640.jpg');
 }
 .second-interest {
-	background-image: url('../img/yoga-g8808de5e2_640.jpg');
+	background-image: url('img/yoga-g8808de5e2_640.jpg');
 }
 .third-interest {
-	background-image: url('../img/yoga-g930cf7eb7_640.jpg');
+	background-image: url('img/yoga-g930cf7eb7_640.jpg');
 }
 .fourth-interest {
-	background-image: url('../img/new-york-ga1ec05c66_640.jpg');
+	background-image: url('img/new-york-ga1ec05c66_640.jpg');
 }
 
 /* kontakt */
@@ -161,7 +161,7 @@ footer {
 
 	.header {
 		height: 400px;
-		background-image: url('../img/hero_big.jpg');
+		background-image: url('img/hero_big.jpg');
 	}
 	.hero-text h1 {
 		font-size: 36px;
